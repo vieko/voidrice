@@ -44,9 +44,9 @@ label=🌐
 #instance=wlan0
 interval=10
 
-[battery]
-command=i3battery
-interval=5
+#[battery]
+#command=i3battery
+#interval=5
 
 [time]
 label=📅
